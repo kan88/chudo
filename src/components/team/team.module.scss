@@ -13,6 +13,15 @@
         margin: 0 auto;
         margin-bottom: 30px;
     }
+    &__photo {
+        border-radius: 50%;
+    }
+    &__name {
+        text-transform: uppercase;
+    }
+    &__nickname {
+        text-transform: uppercase;
+    }
 }
 
 @media(min-width: 1400px){
