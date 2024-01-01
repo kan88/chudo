@@ -1,0 +1,55 @@
+.team {
+    &__filial {
+        margin-bottom: 10px;
+    }
+    &__info {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    &__item {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+}
+
+@media(min-width: 1400px){
+    .team{
+        &__title {
+            margin-bottom: 30px;
+        }
+        &__wrapper {
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 50%;
+        }
+        &__photo {
+            margin-right: 30px;
+            margin-bottom: 30px;
+        }
+        &__info {
+            display: flex;
+            flex-direction: column;
+            align-self: center;
+        }
+        &__filial {
+            margin-bottom: 30px;
+        }
+        &__item {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        &__image {
+            margin-bottom: 10px;
+        }
+        &__name {
+            text-transform: uppercase;
+        }
+        &__nickname {
+            text-transform: uppercase;
+        }
+    }
+}

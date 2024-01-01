@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "A.C.M.E. Secret Agent";
+  src: local("A.C.M.E. Secret Agent"),
+  url("../assets/fonts/acmesa.TTF") format("truetype");
+  font-weight: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+  transition: all 0.5s ease;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 1500px;
+  background-color: rgb(0, 0, 0);
+  font-family: Roboto Serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.ymaps-2-1-79-gotoymaps__text{
+  color: black;
+}
+
+.ymaps-2-1-79-copyright__text{
+  color: red;
+}
+@media(min-width: 1000px) {
+  .react-multi-carousel-track {
+    padding-bottom: 150px !important;
+  }
+}
+.tc-background-yellow {
+  min-width: 160px !important;
+  border-radius: 10px !important;
+  background: #F9A037 !important;
+  color: black !important;
+  text-shadow: none !important;
+  text-transform: capitalize !important;
+  padding: 0 50px !important;
+}

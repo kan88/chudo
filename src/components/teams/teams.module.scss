@@ -1,0 +1,13 @@
+.teams {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+
+@media(min-width: 1400px){
+    .teams {
+        padding: 50px 70px;
+    }
+}
