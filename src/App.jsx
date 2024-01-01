@@ -6,6 +6,7 @@ import Billboard from './components/billboard/Billboard';
 import Manager from './components/manager/Manager';
 import Contacts from './components/contacts/Contacts';
 import Teams from './components/teams/Teams';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Teams />
       <Manager />
       <Contacts />
+      <Footer />
       <Helmet>
         <script
           src="https://ticketscloud.com/static/scripts/widget/tcwidget.js"

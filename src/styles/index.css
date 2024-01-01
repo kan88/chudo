@@ -41,12 +41,12 @@ a {
 
 .tc-background-yellow {
   min-width: 160px !important;
-  border-radius: 10px !important;
+  border-radius: 0 !important;
   background: #F9A037 !important;
   color: black !important;
   text-shadow: none !important;
   text-transform: capitalize !important;
-  padding: 0 50px !important;
+  padding: 10px 130px !important;
   margin: 0 auto !important;
 }
 
@@ -56,5 +56,7 @@ a {
   }
   .tc-background-yellow {
     margin: 0 !important;
+    border-radius: 10px !important;
+    padding: 0 50px !important;
   }
 }
