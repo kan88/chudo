@@ -47,7 +47,7 @@ export default function Team({
           customTransition="all .5"
           transitionDuration={500}
           swipeable
-          removeArrowOnDeviceType={['tablet', 'mobile']}
+          // removeArrowOnDeviceType={['tablet', 'mobile']}
           draggable
           customRightArrow={<CustomRightArrow />}
           customLeftArrow={<CustomLeftArrow />}
