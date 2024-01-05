@@ -6,7 +6,6 @@ import Team from '../team/Team';
 import styles from './teams.module.scss';
 
 export default function Teams() {
-  console.log(TEAMS);
   return (
     <section className={styles.teams}>
       <Title>Составы</Title>
