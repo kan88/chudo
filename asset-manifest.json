@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chudo/static/css/main.d213a422.css",
-    "main.js": "/chudo/static/js/main.b4a6f68a.js",
+    "main.css": "/chudo/static/css/main.0a51b489.css",
+    "main.js": "/chudo/static/js/main.dd86ae0d.js",
     "static/media/logo2.svg": "/chudo/static/media/logo2.d018d4e6bbc037dbad0462f221f390c9.svg",
     "static/media/header.png": "/chudo/static/media/header.81601c49635a8498f2ad.png",
     "static/media/big.jpg": "/chudo/static/media/big.a69ce68c6491506f8f97.jpg",
@@ -25,11 +25,11 @@
     "static/media/revicons.ttf": "/chudo/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/chudo/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/chudo/index.html",
-    "main.d213a422.css.map": "/chudo/static/css/main.d213a422.css.map",
-    "main.b4a6f68a.js.map": "/chudo/static/js/main.b4a6f68a.js.map"
+    "main.0a51b489.css.map": "/chudo/static/css/main.0a51b489.css.map",
+    "main.dd86ae0d.js.map": "/chudo/static/js/main.dd86ae0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d213a422.css",
-    "static/js/main.b4a6f68a.js"
+    "static/css/main.0a51b489.css",
+    "static/js/main.dd86ae0d.js"
   ]
 }
