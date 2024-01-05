@@ -37,7 +37,6 @@
     }
     &__small {
         margin-bottom: 10px;
-        max-width: 150px;
     }
 
     &__big {
@@ -98,5 +97,8 @@
             font-weight: 400;
             line-height: 120%; /* 30px */
         }
+        &__small {
+        max-width: 150px;
+    }
     }
 }
