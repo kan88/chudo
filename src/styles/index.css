@@ -36,7 +36,7 @@ a {
   color: red;
 }
 .react-multi-carousel-track {
-  padding-bottom: 80px !important;
+  padding-bottom: 40px !important;
 }
 
 .tc-background-yellow {
@@ -53,7 +53,7 @@ a {
 
 @media(min-width: 600px) {
   .react-multi-carousel-track {
-    padding-bottom: 150px !important;
+    padding-bottom: 50px !important;
   }
   .tc-background-yellow {
     margin: 0 !important;
