@@ -41,7 +41,6 @@
 
     &__big {
         margin-bottom: 10px;
-        max-width: 350px;
     }
 }
 
@@ -98,7 +97,10 @@
             line-height: 120%; /* 30px */
         }
         &__small {
-        max-width: 150px;
-    }
+            max-width: 150px;
+        }
+        &__big {
+            max-width: 350px;
+        }   
     }
 }
