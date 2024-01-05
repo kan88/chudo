@@ -17,8 +17,8 @@ export default function Manager() {
           когда есть кто-то, кто просто тебя понимает и будет рядом.
         </p>
         <div className={styles.manager__inner}>
-          <img className={styles.manager__small} src={small} alt="фотография руководителя" />
-          <img className={styles.manager__big} src={big} alt="фотография руководителя" />
+          <img className={styles.manager__small} loading="lazy" src={small} alt="фотография руководителя" />
+          <img className={styles.manager__big} loading="lazy" src={big} alt="фотография руководителя" />
           <span className={styles.manager__name}>
             Иваненко Вероника
             <br />

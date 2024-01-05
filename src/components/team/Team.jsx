@@ -54,7 +54,7 @@ export default function Team({
         >
           {students.map((student) => (
             <div key={student.name} className={styles.team__item}>
-              <img className={styles.team__image} src={student.image} alt="фотография участника" />
+              <img className={styles.team__image} src={student.image} loading="lazy" alt="фотография участника" />
               <span className={styles.team__name}>
                 {student.name}
               </span>
