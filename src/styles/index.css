@@ -18,6 +18,7 @@ body {
   max-width: 1500px;
   background-color: #08091d;
   font-family: Roboto Serif;
+  background-image: radial-gradient(ellipse farthest-side,#1a1f44,#08091d);
 }
 
 ul {
