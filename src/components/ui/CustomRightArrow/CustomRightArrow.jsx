@@ -1,12 +1,7 @@
 import React from 'react';
 import styles from './customRightArrow.module.scss';
 
-export default function CustomRightArrow({ onClick, ...rest }) {
-  const {
-    onMove,
-    carouselState: { currentSlide, deviceType },
-  } = rest;
-  console.log(onMove, currentSlide, deviceType);
+export default function CustomRightArrow({ onClick }) {
   return (
     <button className={styles.arrow} aria-label="right" type="button" onClick={() => onClick()}>
       <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 64 64" fill="none">
