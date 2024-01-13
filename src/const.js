@@ -24,6 +24,7 @@ import b10 from './assets/images/teams/2/10.jpg';
 import b11 from './assets/images/teams/2/11.jpg';
 import b12 from './assets/images/teams/2/12.jpg';
 import b13 from './assets/images/teams/2/13.jpg';
+import b14 from './assets/images/teams/2/14.jpg';
 import c1 from './assets/images/teams/3/1.jpg';
 import c2 from './assets/images/teams/3/2.jpg';
 import c3 from './assets/images/teams/3/3.jpg';
@@ -52,7 +53,7 @@ const TEAMS = [{
   students: [{ name: 'дубовицкая лиза', nickname: 'ТАНЯ', image: b1 },
     { name: 'шкадин арсений', nickname: 'панов', image: b2 },
     { name: 'комаров иван', nickname: 'пустыхин', image: b3 },
-    { name: 'кулешова Ксения', nickname: 'елена михайловна', image: b4 },
+    { name: 'гудушаури анна', nickname: 'елена михайловна', image: b4 },
     { name: 'зальцман софия', nickname: 'шаталова', image: b5 },
     { name: 'политаева настя', nickname: 'злобина', image: b6 },
     { name: 'лысых софья', nickname: 'шишкина', image: b7 },
@@ -61,7 +62,8 @@ const TEAMS = [{
     { name: 'архипцова рита', nickname: 'золотухина', image: b10 },
     { name: 'калмыкова дарья', nickname: 'кнопочкина', image: b11 },
     { name: 'герман софия', nickname: 'зябликова', image: b12 },
-    { name: 'викулина мария', nickname: 'малышева', image: b13 }],
+    { name: 'викулина мария', nickname: 'малышева', image: b13 },
+    { name: 'улусой аделия', nickname: 'гордеева', image: b14 }],
   nickname: 'Играют дети из детской театральной студии В ожидании чуда',
   filial: 'Филиал Куркино, Продвинутый уровень',
 }, {
