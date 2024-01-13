@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/chudo/static/css/main.b798766e.css",
-    "main.js": "/chudo/static/js/main.9e03bd65.js",
-    "static/media/12.jpg": "/chudo/static/media/12.f69c5ff3c5aa756afc41.jpg",
-    "static/media/2.jpg": "/chudo/static/media/2.af9f31a0957bf53504ab.jpg",
-    "static/media/7.jpg": "/chudo/static/media/7.7e2705140eb90bbfe012.jpg",
-    "static/media/9.jpg": "/chudo/static/media/9.51c2e50b6fe30789f39c.jpg",
-    "static/media/6.jpg": "/chudo/static/media/6.5125870f6339d366c29f.jpg",
-    "static/media/3.jpg": "/chudo/static/media/3.83ecd6e8cdb9adbc2975.jpg",
-    "static/media/5.jpg": "/chudo/static/media/5.28d1079ac0c33d94c64f.jpg",
-    "static/media/11.jpg": "/chudo/static/media/11.4c81b045fdf4bf63cd32.jpg",
-    "static/media/10.jpg": "/chudo/static/media/10.6a51085c6fe6983e68ea.jpg",
-    "static/media/13.jpg": "/chudo/static/media/13.181ab268971575525949.jpg",
-    "static/media/4.jpg": "/chudo/static/media/4.1c3882892eb304de7fae.jpg",
+    "main.js": "/chudo/static/js/main.cc232819.js",
     "static/media/logo2.svg": "/chudo/static/media/logo2.d018d4e6bbc037dbad0462f221f390c9.svg",
     "static/media/header.png": "/chudo/static/media/header.81601c49635a8498f2ad.png",
     "static/media/big.jpg": "/chudo/static/media/big.a69ce68c6491506f8f97.jpg",
-    "static/media/8.jpg": "/chudo/static/media/8.f2f2d91ae41c09991d60.jpg",
-    "static/media/1.jpg": "/chudo/static/media/1.6f03d74021123fad1638.jpg",
+    "static/media/2.jpg": "/chudo/static/media/2.af9f31a0957bf53504ab.jpg",
+    "static/media/9.jpg": "/chudo/static/media/9.51c2e50b6fe30789f39c.jpg",
+    "static/media/3.jpg": "/chudo/static/media/3.83ecd6e8cdb9adbc2975.jpg",
+    "static/media/4.jpg": "/chudo/static/media/4.b6720dba3e7783f6776c.jpg",
+    "static/media/6.jpg": "/chudo/static/media/6.0d43d9a275d383bb0e30.jpg",
+    "static/media/12.jpg": "/chudo/static/media/12.9d8c0c404f912c667211.jpg",
+    "static/media/7.jpg": "/chudo/static/media/7.7e2705140eb90bbfe012.jpg",
+    "static/media/5.jpg": "/chudo/static/media/5.28d1079ac0c33d94c64f.jpg",
+    "static/media/11.jpg": "/chudo/static/media/11.4c81b045fdf4bf63cd32.jpg",
+    "static/media/8.jpg": "/chudo/static/media/8.d9853ca96ec97bf02ab8.jpg",
+    "static/media/1.jpg": "/chudo/static/media/1.daad3b9ed73e39719662.jpg",
+    "static/media/10.jpg": "/chudo/static/media/10.6a51085c6fe6983e68ea.jpg",
     "static/media/photo.jpg": "/chudo/static/media/photo.658307ebda3c35f5ca6b.jpg",
+    "static/media/13.jpg": "/chudo/static/media/13.daee21b1af7e8ff4d5fb.jpg",
     "static/media/small.jpg": "/chudo/static/media/small.131cf2d10b874ba3e3cf.jpg",
     "static/media/acmesa.TTF": "/chudo/static/media/acmesa.01318c0afdf644ca4a70.TTF",
     "static/media/revicons.eot": "/chudo/static/media/revicons.a77de540a38981833f9e.eot",
@@ -26,10 +26,10 @@
     "static/media/revicons.woff": "/chudo/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/chudo/index.html",
     "main.b798766e.css.map": "/chudo/static/css/main.b798766e.css.map",
-    "main.9e03bd65.js.map": "/chudo/static/js/main.9e03bd65.js.map"
+    "main.cc232819.js.map": "/chudo/static/js/main.cc232819.js.map"
   },
   "entrypoints": [
     "static/css/main.b798766e.css",
-    "static/js/main.9e03bd65.js"
+    "static/js/main.cc232819.js"
   ]
 }
