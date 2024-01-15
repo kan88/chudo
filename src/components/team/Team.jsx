@@ -17,7 +17,7 @@ const responsive = {
   },
   tablet: {
     breakpoint: { max: 1024, min: 464 },
-    items: 4,
+    items: 3,
   },
   mobile: {
     breakpoint: { max: 464, min: 0 },
@@ -40,6 +40,7 @@ export default function Team({
         </div>
       </div>
       <p className={styles.team__description}>{description}</p>
+      <p className={styles.team__title}>Действующие лица и исполнители</p>
       <ul className={styles.team__list}>
         <Carousel
           responsive={responsive}
@@ -54,7 +55,7 @@ export default function Team({
         >
           {students.map((student) => (
             <div key={student.name} className={styles.team__item}>
-              <img className={styles.team__image} src={student.image} alt="фотография участника" />
+              <img className={styles.team__image} src={student.image} loading="lazy" alt="фотография участника" />
               <span className={styles.team__name}>
                 {student.name}
               </span>

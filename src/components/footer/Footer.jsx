@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className={styles.footer}>
       <a className={styles.footer__logo} href="https://chudo-teatr.ru/" aria-label="ссылка на официальный сайт">
-        <img className={styles.footer__image} src={logo} alt="логотип студии в ожидании чуда" />
+        <img className={styles.footer__image} loading="lazy" src={logo} alt="логотип студии в ожидании чуда" />
       </a>
       <ul className={styles.footer__list}>
         <li className={styles.footer__item}>
