@@ -77,7 +77,7 @@ const TEAMS = [{
   students: [{ name: 'филина софия', nickname: 'таня', image: c1 },
     { name: 'пак егор', nickname: 'панов', image: c2 },
     { name: 'дулин дмитрий', nickname: 'пустыхин', image: c3 },
-    { name: 'кулешова ксения', nickname: 'елена михайловна', image: c4 },
+    { name: 'гудушаури анна', nickname: 'елена михайловна', image: c4 },
     { name: 'невзорова софия', nickname: 'шаталова', image: c5 },
     { name: 'зленко анна', nickname: 'злобина', image: c6 },
     { name: 'невзорова полина', nickname: 'зябликова', image: c7 },
