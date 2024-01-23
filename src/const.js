@@ -74,7 +74,7 @@ const TEAMS = [{
   title: 'Третий состав',
   teacher: 'Кулешова Ксения Леонидовна',
   photo: photo2,
-  students: [{ name: 'филина софия', nickname: 'таня', image: c1 },
+  students: [{ name: 'филина софья', nickname: 'таня', image: c1 },
     { name: 'пак егор', nickname: 'панов', image: c2 },
     { name: 'дулин дмитрий', nickname: 'пустыхин', image: c3 },
     { name: 'гудушаури анна', nickname: 'елена михайловна', image: c4 },
