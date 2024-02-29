@@ -26,11 +26,11 @@ const responsive = {
 };
 
 export default function Team({
-  title, students, photo, teacher, description, filial,
+  students, photo, teacher, description, filial,
 }) {
   return (
     <div className={styles.team}>
-      <h2 className={styles.team__title}>{title}</h2>
+      {/* <h2 className={styles.team__title}>{title}</h2> */}
       <p className={styles.team__filial}>{filial}</p>
       <div className={styles.team__wrapper}>
         <img className={styles.team__photo} src={photo} alt="" width={300} height={300} />

@@ -10,13 +10,12 @@ export default function Billboard() {
       <ul className={styles.billboard__list}>
         <li className={styles.billboard__item}>
           <div className={styles.billboard__wrapper}>
-            <span className={styles.billboard__date}>27 января 2024 г.</span>
-            <span className={styles.billboard__time}>13:00</span>
+            <span className={styles.billboard__date}>14 апреля 2024 г.</span>
+            <span className={styles.billboard__time}>18:00</span>
           </div>
-          <h3 className={styles.billboard__title}>Третий состав</h3>
           <Button />
         </li>
-        <li className={styles.billboard__item}>
+        {/* <li className={styles.billboard__item}>
           <div className={styles.billboard__wrapper}>
             <span className={styles.billboard__date}>27 января 2024 г.</span>
             <span className={styles.billboard__time}>15:00</span>
@@ -31,7 +30,7 @@ export default function Billboard() {
           </div>
           <h3 className={styles.billboard__title}>Первый состав</h3>
           <Button />
-        </li>
+        </li> */}
       </ul>
     </section>
   );

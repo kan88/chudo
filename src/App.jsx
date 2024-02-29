@@ -7,6 +7,7 @@ import Manager from './components/manager/Manager';
 import Contacts from './components/contacts/Contacts';
 import Teams from './components/teams/Teams';
 import Footer from './components/footer/Footer';
+import Slider from './components/slider/Slider';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Billboard />
       <Teams />
+      <Slider />
       <Manager />
       <Contacts />
       <Footer />

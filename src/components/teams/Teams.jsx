@@ -8,7 +8,7 @@ import styles from './teams.module.scss';
 export default function Teams() {
   return (
     <section className={styles.teams}>
-      <Title>Составы</Title>
+      <Title>Состав</Title>
       {TEAMS.map((team) => <Team key={team.title} {...team} />)}
     </section>
   );
