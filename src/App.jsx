@@ -20,6 +20,7 @@ function App() {
       <Manager />
       <Contacts />
       <Footer />
+
       <Helmet>
         <script
           src="https://ticketscloud.com/static/scripts/widget/tcwidget.js"
