@@ -4,6 +4,7 @@ import styles from './team.module.scss';
 import 'react-multi-carousel/lib/styles.css';
 import CustomRightArrow from '../ui/CustomRightArrow/CustomRightArrow';
 import CustomLeftArrow from '../ui/CustomLeftArrow/CustomLeftArrow';
+import Title from '../ui/title/Title';
 
 const responsive = {
   superLargeDesktop: {
@@ -32,7 +33,7 @@ export default function Team({
     <div className={styles.team}>
       {/* <h2 className={styles.team__title}>{title}</h2> */}
       <p className={styles.team__description}>{description}</p>
-      <p className={styles.team__title}>Действующие лица и исполнители</p>
+      <Title className={styles.team__title}>Действующие лица и исполнители</Title>
       <ul className={styles.team__list}>
         <Carousel
           responsive={responsive}

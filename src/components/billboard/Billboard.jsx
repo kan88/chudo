@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import React from 'react';
 import Title from '../ui/title/Title';
 import styles from './billboard.module.scss';
@@ -29,7 +30,9 @@ export default function Billboard() {
         “В ожидании чуда”
         <br />
         <br />
-        chudo-teatr.ru
+        <a className={styles.billboard__link} alt="chudo-teatr.ru" href="https://chudo-teatr.ru">
+          chudo-teatr.ru
+        </a>
       </p>
     </section>
   );
