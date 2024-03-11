@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chudo/static/css/main.72d286f0.css",
-    "main.js": "/chudo/static/js/main.7f6adfff.js",
+    "main.css": "/chudo/static/css/main.70246e16.css",
+    "main.js": "/chudo/static/js/main.5bfff961.js",
     "static/media/1.mp4": "/chudo/static/media/1.cf82a93b93d34491f0b5.mp4",
     "static/media/2.jpg": "/chudo/static/media/2.1d52fd8f72cce9536ee4.jpg",
     "static/media/8.jpg": "/chudo/static/media/8.d509ab34255077dbf786.jpg",
@@ -25,11 +25,11 @@
     "static/media/revicons.ttf": "/chudo/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/chudo/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/chudo/index.html",
-    "main.72d286f0.css.map": "/chudo/static/css/main.72d286f0.css.map",
-    "main.7f6adfff.js.map": "/chudo/static/js/main.7f6adfff.js.map"
+    "main.70246e16.css.map": "/chudo/static/css/main.70246e16.css.map",
+    "main.5bfff961.js.map": "/chudo/static/js/main.5bfff961.js.map"
   },
   "entrypoints": [
-    "static/css/main.72d286f0.css",
-    "static/js/main.7f6adfff.js"
+    "static/css/main.70246e16.css",
+    "static/js/main.5bfff961.js"
   ]
 }
