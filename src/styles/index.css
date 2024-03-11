@@ -63,3 +63,14 @@ a {
     max-width: 250px !important;
   }
 }
+
+.swiper-wrapper {
+  padding-bottom: 30px;
+}
+.swiper-pagination-bullet {
+  background-color: gray !important;
+}
+.swiper-pagination {
+  position: relative;
+  bottom: 10px !important;
+}

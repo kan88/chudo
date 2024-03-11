@@ -48,17 +48,17 @@ export default function Slider() {
         modules={[Pagination]}
         className="mySwiper"
       >
-        <SwiperSlide><img src={photo1} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo2} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo3} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo4} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo5} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo6} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo7} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo8} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo9} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo10} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
-        <SwiperSlide><img src={photo11} width={350} height={250} alt="scene" loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo1} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo2} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo3} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo4} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo5} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo6} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo7} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo8} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo9} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo10} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
+        <SwiperSlide><img src={photo11} alt="scene" className={styles.slider__photo} loading="lazy" /></SwiperSlide>
       </Swiper>
       <video className={styles.slider__video} controls="controls">
         <source src={video} autoPlay type="video/mp4" />

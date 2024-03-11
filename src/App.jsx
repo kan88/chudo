@@ -3,11 +3,11 @@ import { Helmet } from 'react-helmet';
 import Header from './components/header/Header';
 import About from './components/about/About';
 import Billboard from './components/billboard/Billboard';
-import Manager from './components/manager/Manager';
 import Contacts from './components/contacts/Contacts';
 import Teams from './components/teams/Teams';
 import Footer from './components/footer/Footer';
 import Slider from './components/slider/Slider';
+import Reviews from './components/reviews/Reviews';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
       <Billboard />
       <Teams />
       <Slider />
-      <Manager />
+      <Reviews />
       <Contacts />
       <Footer />
 
